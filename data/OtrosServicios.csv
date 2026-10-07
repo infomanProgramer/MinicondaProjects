@@ -1,0 +1,6 @@
+Servicio,Concepto,Fecha_solicitud,Fecha _reserva,Desde,Hasta,Piso,Letra,Copropietario,Garantia,Pago_total,Pago_parcial,Saldo,Cancelado,Observaciones,Ultima_expensa,Tiene_mora,Devolucion_garantia
+Parrillero,alquiler,04/09/2026,05/09/2026,12:00,,16,F,Alvaro Anticalle,300,70,370,0,SI,,julio 2026,NO,SI
+Parrillero,alquiler,04/09/2026,05/09/2026,13:00,,19,C,Christian Coronel,200,50,250,0,SI,Sin sillas,agosto 2026,NO,SI
+Ascensor,traslado,06/09/2026,07/09/2026,21:30,,9,E,Sra. Dora Vargas,,200,200,0,SI,,agosto 2026,NO,
+Salón,alquiler,23/09/2026,25/09/2026,13:00,23:00,16,F,Alvaro Anticalle,400,200,600,0,SI,,julio 2026,NO,SI
+Gimnasio,julio y agosto,27/08/2026,,,,16,D,Veronica Lyeva Medina,,30,,,SI,,,,
