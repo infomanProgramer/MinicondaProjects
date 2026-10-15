@@ -4,7 +4,7 @@ D;3;jun-26;92,84;92,84;0;Pagado;Domestico;
 E;3;jun-25; 209,00 ;;209;No pagado;Domestico;
 E;3;jul-25; 217,00 ;;217;No pagado;Domestico;
 E;3;ago-25; 220,05 ;;220,05;No pagado;Domestico;
-E;3;sep-25; 201,11 ;;201,11;No pagado;Domestico;
+E;3;sept-25; 201,11 ;;201,11;No pagado;Domestico;
 E;3;oct-25; 220,27 ;;220,27;No pagado;Domestico;
 E;3;nov-25; 219,73 ;;219,73;No pagado;Domestico;
 E;3;dic-25; 212,42 ;;212,42;No pagado;Domestico;
@@ -60,7 +60,7 @@ B;10;mar-26; 165,80 ;165,8;0;Pagado;Domestico;1/10/2026
 B;10;abr-26; 199,41 ;199,41;0;Pagado;Domestico;1/10/2026
 B;10;may-26; 168,87 ;168,87;0;Pagado;Domestico;1/10/2026
 B;10;jun-26; 162,00 ;;162;No pagado;Domestico;
-D;10;ges_ant; 384,00 ;;384;No pagado;Domestico;
+D;10;gestiones anteriores; 384,00 ;;384;No pagado;Domestico;
 D;10;ene-25; 97,00 ;97,00;0;Pagado;Domestico;2/10/2026
 D;10;feb-25; 125,00 ;125,00;0;Pagado;Domestico;2/10/2026
 D;10;mar-25; 126,00 ;126,00;0;Pagado;Domestico;2/10/2026
@@ -68,7 +68,7 @@ D;10;abr-25; 121,00 ;121,00;0;Pagado;Domestico;2/10/2026
 D;10;may-25; 125,00 ;125,00;0;Pagado;Domestico;2/10/2026
 D;10;jun-25; 127,00 ;127,00;0;Pagado;Domestico;2/10/2026
 D;10;jul-25; 127,00 ;127,00;0;Pagado;Domestico;2/10/2026
-D;10;sep-25; 124,85 ;124,85;0;Pagado;Domestico;2/10/2026
+D;10;sept-25; 124,85 ;124,85;0;Pagado;Domestico;2/10/2026
 D;10;oct-25; 128,90 ;128,90;0;Pagado;Domestico;2/10/2026
 D;10;nov-25; 133,39 ;133,39;0;Pagado;Domestico;2/10/2026
 D;10;dic-25; 128,56 ;128,56;0;Pagado;Domestico;2/10/2026
@@ -95,7 +95,7 @@ A;13;mar-26; 195,50 ;3,23;192,27;Pendiente;Domestico;
 A;13;abr-26; 198,78 ;198,78;0;Pagado;Domestico;
 A;13;may-26; 190,47 ;190,47;0;Pagado;Domestico;
 A;13;jun-26; 194,90 ;194,9;0;Pagado;Domestico;
-C;13;sep-25; 152,71 ;;152,71;No pagado;Domestico;
+C;13;sept-25; 152,71 ;;152,71;No pagado;Domestico;
 C;13;oct-25; 152,29 ;;152,29;No pagado;Domestico;
 C;13;nov-25; 152,38 ;;152,38;No pagado;Domestico;
 C;13;dic-25; 152,84 ;;152,84;No pagado;Domestico;
@@ -120,7 +120,7 @@ E;15;may-25; 37,00 ;;37;No pagado;Domestico;
 E;15;jun-25; 38,00 ;;38;No pagado;Domestico;
 E;15;jul-25; 36,00 ;;36;No pagado;Domestico;
 E;15;ago-25; 36,71 ;;36,71;No pagado;Domestico;
-E;15;sep-25; 36,98 ;;36,98;No pagado;Domestico;
+E;15;sept-25; 36,98 ;;36,98;No pagado;Domestico;
 E;15;oct-25; 0,42 ;;0,42;No pagado;Domestico;
 E;15;nov-25; 0,29 ;;0,29;No pagado;Domestico;
 E;15;dic-25; 186,21 ;;186,21;No pagado;Domestico;
@@ -140,7 +140,7 @@ C;18;may-25; 116,00 ;;116;No pagado;Domestico;
 C;18;jun-25; 117,00 ;;117;No pagado;Domestico;
 C;18;jul-25; 115,00 ;;115;No pagado;Domestico;
 C;18;ago-25; 114,11 ;;114,11;No pagado;Domestico;
-C;18;sep-25; 114,08 ;;114,08;No pagado;Domestico;
+C;18;sept-25; 114,08 ;;114,08;No pagado;Domestico;
 C;18;oct-25; 114,17 ;;114,17;No pagado;Domestico;
 C;18;nov-25; 114,21 ;;114,21;No pagado;Domestico;
 C;18;dic-25; 114,00 ;;114;No pagado;Domestico;
