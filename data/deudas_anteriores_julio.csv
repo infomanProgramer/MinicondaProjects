@@ -49,17 +49,18 @@ A;7;may-26; 213,87 ;213,87;0;Pagado;Domestico;30/9/2026
 A;7;jun-26; 212,90 ;212,9;0;Pagado;Domestico;30/9/2026
 E;8;feb-26; 38,38 ;38,38;0;Pagado;Domestico;
 E;8;jun-26; 247,25 ;247,25;0;Pagado;Domestico;
+B;9;gestiones anteriores; 2.175,00 ;;2175;No pagado;Domestico;
 B;9;mar-25; 165,00 ;165;0;Pagado;Domestico;
 B;9;oct-25; 168,07 ;;168,07;No pagado;Domestico;
 B;9;nov-25; 170,59 ;;170,59;No pagado;Domestico;
 B;9;dic-25; 165,00 ;;165;No pagado;Domestico;
-B;9;ges_ant; 2.175,00 ;;2175;No pagado;Domestico;
 B;9;jun-26;212,17;212,17;0;Pagado;Domestico;
 E;9;jun-26; 266,00 ;266;0;Pagado;Domestico;
 B;10;mar-26; 165,80 ;165,8;0;Pagado;Domestico;1/10/2026
 B;10;abr-26; 199,41 ;199,41;0;Pagado;Domestico;1/10/2026
 B;10;may-26; 168,87 ;168,87;0;Pagado;Domestico;1/10/2026
 B;10;jun-26; 162,00 ;;162;No pagado;Domestico;
+D;10;ges_ant; 384,00 ;;384;No pagado;Domestico;
 D;10;ene-25; 97,00 ;97,00;0;Pagado;Domestico;2/10/2026
 D;10;feb-25; 125,00 ;125,00;0;Pagado;Domestico;2/10/2026
 D;10;mar-25; 126,00 ;126,00;0;Pagado;Domestico;2/10/2026
@@ -77,7 +78,6 @@ D;10;mar-26; 153,28 ;;153,28;No pagado;Domestico;
 D;10;abr-26; 151,58 ;;151,58;No pagado;Domestico;
 D;10;may-26; 155,03 ;;155,03;No pagado;Domestico;
 D;10;jun-26; 153,52 ;;153,52;No pagado;Domestico;
-D;10;ges_ant; 384,00 ;;384;No pagado;Domestico;
 D;11;jun-26;128,72;128,72;0;Pagado;Domestico;
 B;12;ene-26; 203,60 ;;203,6;No pagado;Domestico;
 B;12;feb-26; 275,35 ;;275,35;No pagado;Domestico;
@@ -90,7 +90,6 @@ E;12;mar-26; 54,00 ;;54;No pagado;Domestico;
 E;12;abr-26; 54,00 ;;54;No pagado;Domestico;
 E;12;may-26; 54,00 ;;54;No pagado;Domestico;
 E;12;jun-26; 330,53 ;276,53;54;Pendiente;Domestico;
-E;12;jun-26;276,53;276,53;0;Pagado;Domestico;
 F;12;jun-26;168,14;168,14;0;Pagado;Domestico;
 A;13;mar-26; 195,50 ;3,23;192,27;Pendiente;Domestico;
 A;13;abr-26; 198,78 ;198,78;0;Pagado;Domestico;
