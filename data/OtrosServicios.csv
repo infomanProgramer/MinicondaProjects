@@ -1,9 +1,8 @@
-Servicio,Concepto,Fecha_solicitud,Fecha_reserva,Desde,Hasta,Piso,Letra,Copropietario,Garantia,Pago_total,Pago_parcial,Saldo,Cancelado,Observaciones,Ultima_expensa,Tiene_mora,Devolucion_garantia,Estado
-Ascensor,traslado,07/10/2026,,,,3,F,Jhoyci Shakira Vidal Cortez,,200,,,,,,,,PAGADO
-Salón,alquiler evento niños,23/09/2026,25/09/2026,13:00,23:00,16,F,Alvaro Anticalle,400,200,600,0,SI,,julio 2026,NO,SI,PAGADO
-Ascensor,traslado,06/09/2026,07/09/2026,21:30,,9,E,Sra. Dora Vargas,,200,200,0,SI,,agosto 2026,NO,,PAGADO
-Parrillero,alquiler,04/09/2026,05/09/2026,12:00,,16,F,Alvaro Anticalle,300,70,370,0,SI,,julio 2026,NO,SI,PAGADO
-Parrillero,alquiler,04/09/2026,05/09/2026,13:00,,19,C,Christian Coronel,200,50,250,0,SI,Sin sillas,agosto 2026,NO,SI,PAGADO
-Gimnasio,julio y agosto,27/08/2026,,,,16,D,Veronica Lyeva Medina,,30,,,SI,,,,,PAGADO
-Salón,alquiler,07/10/2026,17/10/2026,,,15,C,Nancy Blanca Choque Mamani,300,300,,,,"Dejara su garantia y hará su arreglo un día antes a partir de las 14 pm, osea el 16 de octubre",,,,PAGADO
-Salón,alquiler evento niños,13/10/2026,17/10/2026,,,15,A,Edgar Paz,200,200,,,,,,,,PAGADO
+Servicio,Concepto,Periodo,Fecha_solicitud,Fecha_reserva,Piso,Letra,Copropietario,Garantia,Pago_total,Estado,Observaciones
+Ascensor,traslado,Octubre,07/10/2026,,3,F,Jhoyci Shakira Vidal Cortez,,200,PAGADO,
+Salón,alquiler evento adultos,Octubre,07/10/2026,17/10/2026,15,C,Nancy Blanca Choque Mamani,300,300,PAGADO,"Dejara su garantia y hará su arreglo un día antes a partir de las 14 pm, osea el 16 de octubre"
+Salón,alquiler evento niños,Septiembre,23/09/2026,25/09/2026,16,F,Alvaro Anticalle,400,200,PAGADO,
+Ascensor,traslado,Septiembre,06/09/2026,07/09/2026,9,E,Sra. Dora Vargas,,200,PAGADO,
+Parrillero,alquiler,Septiembre,04/09/2026,05/09/2026,16,F,Alvaro Anticalle,300,70,PAGADO,
+Parrillero,alquiler,Septiembre,04/09/2026,05/09/2026,19,C,Christian Coronel,200,50,PAGADO,Sin sillas
+Gimnasio,julio y agosto,Agosto,27/08/2026,,16,D,Veronica Lyeva Medina,,30,PAGADO,
