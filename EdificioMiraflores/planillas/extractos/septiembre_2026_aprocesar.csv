@@ -1,0 +1,134 @@
+Fecha;Hora;Descripción;Medio de Atención;Lugar;Monto;Saldo;Ingreso;Egreso;Descripcion;Tipo
+20260901;00:15:11;Transferencia Qr 11b Julio Exp - Banco Ganadero - Mendoza Quina Luis Esteban - 73234121;Transferencia Interbancaria;Agencia Central la Paz;179,95;23,672.98;x;;expensa;
+20260901;00:16:19;Transferencia Qr 11b Agosto Exp - Banco Ganadero - Mendoza Quina Luis Esteban - 73234121;Transferencia Interbancaria;Agencia Central la Paz;191,41;23,864.39;x;;expensa;
+20260901;13:28:54;Transferencia Qr 3b Expensas Agosto - Banco Nacional de Bolivia - Castro Inathalie n - 1502240400;Transferencia Interbancaria;Agencia Central la Paz;191,44;24,055.83;x;;expensa;
+20260901;19:23:56;Transferencia Qr Dpto 12 c Julio Expensas - Banco Ganadero - Fernandez Ramos Luis Cesar - 1310221094;Transferencia Interbancaria;Agencia Central la Paz;204,49;24,260.32;x;;expensa;
+20260902;14:38:51;Transferencia Qr Pago Expensas Agosto Dep 18b - Banco Union - Cruz Lia Jaime Dennys - 10000003346413;Transferencia Interbancaria;Agencia Central la Paz;239,02;24,499.34;x;;expensa;
+20260902;18:27:02;Transferencia Qr Expensas  Dpto 13b - Banco Nacional de Bolivia - Ingrid Lenis Martine - 1503251716;Transferencia Interbancaria;Agencia Central la Paz;215,15;24,714.49;x;;expensa;
+20260902;18:35:59;Transferencia Qr Bm Qr Sueldo Agosto - Banco Ganadero - Ramirez Ticona Claudia Miriam - 74581237;Agencia;Agencia Central la Paz;- 3300,00;21,414.49;;x;Sueldo agosto portero 1;Gastos fijos
+20260902;18:40:51;Transferencia Qr Bm Qr Sueldo Agosto Victor - Billetera - Victor Mayta Quispe - 76748340;Agencia;Agencia Central la Paz;- 3300,00;18,114.49;;x;Sueldo agosto portero 2;Gastos fijos
+20260902;18:42:16;Transferencia Qr Bm Qr Sueldo Agosto Rafael - Banco Ganadero - Ortiz Rocha Rafael Freddy - 1310794695;Agencia;Agencia Central la Paz;- 1650,00;16,464.49;;x;Sueldo agosto Administrador;Gastos fijos
+20260902;18:43:59;Transferencia Qr Bm Qr Viaticos Agosto Administracion - Banco Ganadero - Ortiz Rocha Rafael Freddy - 1310794695;Agencia;Agencia Central la Paz;- 130,00;16,334.49;;x;Viaticos agosto Administrador;Gastos fijos
+20260903;08:31:30;Transferencia Qr 12e Expensas Julio 2026 - Banco Union - Vargas Aramayo Luigi - 10000004762311;Transferencia Interbancaria;Agencia Central la Paz;280,67;16,615.16;x;;expensa;
+20260903;12:08:00;Transferencia Qr Expensas Agosto 9a  - Banco Union - Balboa Quispe Massiel Vannesa - 10000006270461;Transferencia Interbancaria;Agencia Central la Paz;256,02;16,871.18;x;;expensa;
+20260903;16:16:36;Transferencia Qr 7d Julio Exp - Banco Union - Lopez Lizarazu Martha Roxana - 10000031137686;Transferencia Interbancaria;Agencia Central la Paz;92,58;16,963.76;x;;expensa;
+20260903;16:21:41;Transferencia Qr 7d Agosto Exp - Banco Union - Lopez Lizarazu Martha Roxana - 10000031137686;Transferencia Interbancaria;Agencia Central la Paz;92,00;17,055.76;x;;expensa;
+20260903;19:58:59;Transferencia Qr 3 a Septiembre  Exp - Banco Union - Medrano Risco de Palenque Maria Margaret - 10000025793543;Transferencia Interbancaria;Agencia Central la Paz;154,10;17,209.86;x;;expensa;
+20260903;20:53:54;Transferencia Qr 6a Agosto Ex   de: 20151050676321 Vargas Fernandez Pamela Reyna;Banca Movil;Agencia Central la Paz;170,31;17,380.17;x;;expensa;
+20260904;08:27:41;Transferencia Qr 7f Ago Exp - Banco Nacional de Bolivia - Terrazas Monj Angela - 1503960148;Transferencia Interbancaria;Agencia Central la Paz;168,73;17,548.90;x;;expensa;
+20260904;15:55:28;Transferencia Qr Pago de Parrilla y Garantia - Banco Ganadero - Anti Calle Alvaro Gustavo - 1311341519;Transferencia Interbancaria;Agencia Central la Paz;370,00;17,918.90;x;;Alquiler y garantia de parrillero 16F;Otros ingresos
+20260904;18:15:42;Transferencia Qr 19c  Julio y Agosto  Expensas  - Banco Union - Pacsi Copana Jhersika Andrea - 10000019424823;Transferencia Interbancaria;Agencia Central la Paz;467,20;18,386.10;x;;expensa;
+20260904;19:38:57;Transferencia Qr Expensas Dep   de: 20152292514303 Coaquira Ayaviri Claudia Belen;Banca Movil;Agencia Central la Paz;400,00;18,786.10;x;;expensa;
+20260904;20:28:01;Transferencia Qr  - Banco Bisa - Careaga Mendoza Nicole Andrea            - 5265014021;Transferencia Interbancaria;Agencia Central la Paz;61,25;18,847.35;x;;expensa;
+20260905;07:12:47;Transferencia Qr 3d Agosto Exp - Banco Union - Serna Olaneta Abdon Felipe - 10000020834061;Transferencia Interbancaria;Agencia Central la Paz;93,86;18,941.21;x;;expensa;
+20260905;11:24:37;Transferencia Qr Parrillero - Banco Union - Coronel Quisbert Cristhian Richard - 10000027047055;Transferencia Interbancaria;Agencia Central la Paz;250,00;19,191.21;x;;Alquiler y garantia de parrillero 19C;Otros ingresos
+20260905;11:40:21;Transferencia Qr 15bjulioexpensas - Banco Nacional de Bolivia - Stefany Rafael - 1504458594;Transferencia Interbancaria;Agencia Central la Paz;180,28;19,371.49;x;;expensa;
+20260905;12:16:28;Transferencia Qr 17b Agosto Expensa - Banco Union - Montano Villarroel Rodrigo - 10000031656066;Transferencia Interbancaria;Agencia Central la Paz;218,02;19,589.51;x;;expensa;
+20260905;12:17:51;Transferencia Qr 17b Septiembre Expensa - Banco Union - Montano Villarroel Rodrigo - 10000031656066;Transferencia Interbancaria;Agencia Central la Paz;220,59;19,810.10;x;;expensa;
+20260905;18:03:54;Transferencia Qr  - Banco Bisa - Aguilar de la Fuente Paolo Rodrigo       - 8197814013;Transferencia Interbancaria;Agencia Central la Paz;159,38;19,969.48;x;;expensa;
+20260905;20:13:30;Transacción Banca Movil Qr 8 b Julio 20;Banca Movil;Agencia Central la Paz;199,14;20,168.62;x;;expensa;
+20260905;20:41:31;Transacción Banca Movil Qr 8b Agosto 20;Banca Movil;Agencia Central la Paz;197,17;20,365.79;x;;expensa;
+20260906;10:10:03;Transferencia Qr Bm Qr Devolucion Garantia Parrilla 5 Septiembre - Banco Ganadero - Anti Calle Alvaro Gustavo - 1311341519;Agencia;Agencia Central la Paz;- 300,00;20,065.79;;x;Alquiler y garantia de parrillero 16F;Gastos variables
+20260906;10:54:28;Transacción Banca Movil Qr 16d Agosto e;Banca Movil;Agencia Central la Paz;118,29;20,184.08;x;;expensa;
+20260906;11:05:07;Transacción Banca Movil Qr 9e-parqueo 4;Banca Movil;Agencia Central la Paz;266,14;20,450.22;x;;expensa;
+20260906;11:06:28;Transacción Banca Movil Qr 9e -traslado;Banca Movil;Agencia Central la Paz;200,00;20,650.22;x;;Traslado 9E;Otros ingresos
+20260907;20:01:25;Transferencia Qr 11a Agosto e   de: 20151230315375 Huanca Argani Nohely Carla;Banca Movil;Agencia Central la Paz;187,00;20,837.22;x;;expensa;
+20260908;00:32:18;Transferencia Qr 11 f Julio Exp - Banco Ganadero - Valle Beltran Roberto Carlos - 1310973777;Transferencia Interbancaria;Agencia Central la Paz;232,81;21,070.03;x;;expensa;
+20260908;00:34:43;Transferencia Qr 11f Agosto Exp - Banco Ganadero - Valle Beltran Roberto Carlos - 1310973777;Transferencia Interbancaria;Agencia Central la Paz;228,91;21,298.94;x;;expensa;
+20260908;08:34:23;Transferencia Qr Bm Qr Devolucion - Banco Union - Cristhian Richard Coronel Quisbert - 10000027047055;Agencia;Agencia Central la Paz;- 250,00;21,048.94;;x;Alquiler y garantia de parrillero 19C;
+20260908;09:18:39;Transferencia Qr 14b Agosto e   de: 20151420110387 Montano Silva Pedro Damian;Banca Movil;Agencia Central la Paz;242,10;21,291.04;x;;expensa;Gastos variables
+20260908;11:51:53;Transferencia Qr 8a Septiembre Agua Agosto  - Billetera - Eliana Madai Torres Cerruto - 71249035;Agencia;Agencia Central la Paz;219,98;21,511.02;x;;expensa;
+20260908;14:25:38;Transferencia Qr 17c Septiembre Exp - Banco Ganadero - Alfaro Paredes Eddy Ernesto - 1310069944;Transferencia Interbancaria;Agencia Central la Paz;154,84;21,665.86;x;;expensa;
+20260909;02:57:04;Transferencia Qr 11f Septiembre Exp - Banco Ganadero - Valle Beltran Roberto Carlos - 1310973777;Transferencia Interbancaria;Agencia Central la Paz;229,54;21,895.40;x;;expensa;
+20260909;11:58:52;Deposito en Agencia De:penaloza Vila;Agencia;Ag.miraflores-la Paz Av.saavedra No.1845;100,10;21,995.50;x;;expensa;
+20260909;12:01:33;Deposito en Agencia De:fernandez Pena;Agencia;Ag.miraflores-la Paz Av.saavedra No.1845;337,40;22,332.90;x;;expensa;
+20260909;15:45:37;Regul Cheq Bcp/can;Agencia;Ag.miraflores-la Paz Av.saavedra No.1845;8404,84;30,737.74;x;;expensas CIDAL;Otros ingresos
+20260909;16:27:21;Transferencia Qr Exp Agosto Dep F8 - Banco Nacional de Bolivia - Mirco Israel Lopez r - 1570083224;Transferencia Interbancaria;Agencia Central la Paz;182,86;30,920.60;x;;expensa;
+20260909;16:42:12;Transferencia Qr  - Banco Bisa - Manrrique Villagomez Daniel              - 1638874012;Transferencia Interbancaria;Agencia Central la Paz;183,52;31,104.12;x;;expensa;
+20260909;21:08:44;Transferencia Qr Carvajal Yucra Oscar Gauss o Paz Leyto 20152363390394 - Banco Mercantil - Manuel Alejandro Lopez Mendia - 1008146698;Transferencia Interbancaria;Agencia Central la Paz;224,35;31,328.47;x;;expensa;
+20260910;14:52:09;Transferencia Qr Parrillada - Banco Union - Coronel Quisbert Cristhian Richard - 10000027047055;Transferencia Interbancaria;Agencia Central la Paz;50,00;31,378.47;x;;Alquiler y garantia de parrillero 19C;Otros ingresos
+20260910;20:25:43;Transferencia Qr 19b Julio Exp - Banco Nacional de Bolivia - Sergio Damian Aliaga - 1500729682;Transferencia Interbancaria;Agencia Central la Paz;187,72;31,566.19;x;;expensa;
+20260910;20:26:28;Transferencia Qr 19b Agosto Expensas - Banco Nacional de Bolivia - Sergio Damian Aliaga - 1500729682;Transferencia Interbancaria;Agencia Central la Paz;183,49;31,749.68;x;;expensa;
+20260910;20:27:02;Transferencia Qr 19b Septiembre Expensas - Banco Nacional de Bolivia - Sergio Damian Aliaga - 1500729682;Transferencia Interbancaria;Agencia Central la Paz;179,77;31,929.45;x;;expensa;
+20260911;09:49:28;Transferencia Qr 16c Junio Exp - Banco Union - Choque Arancibia Vladimir - 10000028376172;Transferencia Interbancaria;Agencia Central la Paz;216,52;32,145.97;x;;expensa;
+20260911;09:49:54;Transferencia Qr 16c Julio Exp - Banco Union - Choque Arancibia Vladimir - 10000028376172;Transferencia Interbancaria;Agencia Central la Paz;219,89;32,365.86;x;;expensa;
+20260911;09:51:11;Transferencia Qr 16c Agosto Exp - Banco Union - Choque Arancibia Vladimir - 10000028376172;Transferencia Interbancaria;Agencia Central la Paz;203,48;32,569.34;x;;expensa;
+20260911;09:51:30;Transferencia Qr 16c Septiembre Exp - Banco Union - Choque Arancibia Vladimir - 10000028376172;Transferencia Interbancaria;Agencia Central la Paz;226,18;32,795.52;x;;expensa;
+20260911;13:21:59;Transferencia Qr 14a Agosto Exp - Banco Union - Castro Inofuentes Jhonattan Jose - 10000011897242;Transferencia Interbancaria;Agencia Central la Paz;229,00;33,024.52;x;;expensa;
+20260911;15:19:12;Deposito en Agencia De:donaire Apala;Agencia;Ag. Ciudad Satelite Av. Satelite Plan 561 C.15-b No 573;212,17;33,236.69;x;;expensa;
+20260911;15:19:42;Deposito en Agencia De:donaire Apala;Agencia;Ag. Ciudad Satelite Av. Satelite Plan 561 C.15-b No 573;211,63;33,448.32;x;;expensa;
+20260911;15:20:07;Deposito en Agencia De:donaire Apala;Agencia;Ag. Ciudad Satelite Av. Satelite Plan 561 C.15-b No 573;216,89;33,665.21;x;;expensa;
+20260911;19:33:54;Transferencia Qr Local 4  Julio y Agosto  Expensas - Banco Economico - Centellas Uribe Paola Andrea - 2031767160;Transferencia Interbancaria;Agencia Central la Paz;98,31;33,763.52;x;;expensa;
+20260911;21:01:19;Transferencia Qr 4f Agosto Expensa - Banco Nacional de Bolivia - Lourdes Lima Tellez - 1503732234;Transferencia Interbancaria;Agencia Central la Paz;187,15;33,950.67;x;;expensa;
+20260911;21:15:05;Transferencia Qr  - Billetera - Sandra Zulema Nina Arratia - 79504079;Agencia;Agencia Central la Paz;38,38;33,989.05;x;;expensa;
+20260911;21:16:44;Transferencia Qr  - Billetera - Sandra Zulema Nina Arratia - 79504079;Agencia;Agencia Central la Paz;266,00;34,255.05;x;;expensa;
+20260911;21:18:26;Transferencia Qr  - Billetera - Sandra Zulema Nina Arratia - 79504079;Agencia;Agencia Central la Paz;242,05;34,497.10;x;;expensa;
+20260911;21:19:47;Transferencia Qr  - Billetera - Sandra Zulema Nina Arratia - 79504079;Agencia;Agencia Central la Paz;240,18;34,737.28;x;;expensa;
+20260912;21:08:50;Transferencia Qr 15d Mayo Exp   de: 20151480650338 Gutierrez Colque Wayra;Banca Movil;Agencia Central la Paz;143,42;34,880.70;x;;expensa;
+20260912;21:10:02;Transferencia Qr 15d Junio Ex   de: 20151480650338 Gutierrez Colque Wayra;Banca Movil;Agencia Central la Paz;142,00;35,022.70;x;;expensa;
+20260912;21:12:23;Transferencia Qr 15d Julio Ex   de: 20151480650338 Gutierrez Colque Wayra;Banca Movil;Agencia Central la Paz;159,70;35,182.40;x;;expensa;
+20260912;21:13:37;Transferencia Qr 15d Agosto e   de: 20151480650338 Gutierrez Colque Wayra;Banca Movil;Agencia Central la Paz;151,76;35,334.16;x;;expensa;
+20260912;21:15:09;Transferencia Qr 15d Septiemb   de: 20151480650338 Gutierrez Colque Wayra;Banca Movil;Agencia Central la Paz;148,80;35,482.96;x;;expensa;
+20260913;07:32:42;Transferencia Qr Expensa Julio - Banco Union - Leon Herbas Ericka - 10000026220826;Transferencia Interbancaria;Agencia Central la Paz;106,78;35,589.74;x;;expensa;
+20260913;07:35:59;Transferencia Qr Expensa Agosto 12d 2026 - Banco Union - Leon Herbas Ericka - 10000026220826;Transferencia Interbancaria;Agencia Central la Paz;108,66;35,698.40;x;;expensa;
+20260914;14:39:19;Transferencia Qr 13e Agosto Exp - Banco Nacional de Bolivia - Duran Loayza Alvaro - 1501200898;Transferencia Interbancaria;Agencia Central la Paz;307,15;36,005.55;x;;expensa;
+20260914;14:40:12;Transferencia Qr 13e Septiembre Exp - Banco Nacional de Bolivia - Duran Loayza Alvaro - 1501200898;Transferencia Interbancaria;Agencia Central la Paz;313,14;36,318.69;x;;expensa;
+20260914;21:54:18;Transferencia Qr 5d Agosto Expensas  - Billetera - Marcelo Samael Loza Banoni - 60631477;Agencia;Agencia Central la Paz;137,59;36,456.28;x;;expensa;
+20260915;11:44:10;Transferencia Qr Bm Qr Panel Informativo de Aluminio - Banco Union - Abdon Felipe Serna Ola Eta - 10000020834061;Agencia;Agencia Central la Paz;- 1047,00;35,409.28;;x;Compra panel de avisos;Gastos variables
+20260915;15:12:26;Deposito en Agencia De:cruz Pinto de;Agencia;Ag.central-la Paz Calle Mercado Esq.colon No,1308;202,25;35,611.53;x;;expensa;
+20260915;15:24:19;Deposito en Agencia De:rosales Cruz p;Agencia;Ag.central-la Paz Calle Mercado Esq.colon No,1308;26,00;35,637.53;x;;expensa;
+20260915;16:57:15;Transferencia Qr 3d Agosto Saldo Expensa  - Banco Union - Serna Olaneta Abdon Felipe - 10000020834061;Transferencia Interbancaria;Agencia Central la Paz;1,33;35,638.86;x;;expensa;
+20260915;17:55:06;Transferencia Qr Bm Qr Compa Ia General Electromecanica C.g.e.ltda - Banco Mercantil - Compa Ia General Electromecanica C.g.e.l - 4011048967;Agencia;Agencia Central la Paz;- 2500,00;33,138.86;;x;Mantenimiento ascensores OTIS agosto;Gastos fijos
+20260916;12:54:57;Transferencia Qr 6dseptiembreexpensa - Banco Nacional de Bolivia - Nelson Ronald Rodrig - 1502807869;Transferencia Interbancaria;Agencia Central la Paz;170,26;33,309.12;x;;expensa;
+20260916;13:52:47;Deposito en Agencia De:cardenas Moral;Agencia;Ag. Obrajes Av. Hernando Siles Esq. Calle 10;154,50;33,463.62;x;;expensa;
+20260916;15:07:46;Transferencia Qr Bm Qr Compras en Dismat S.r.l. - Banco Bisa - Dismat S.r.l. - 317580011;Agencia;Agencia Central la Paz;- 463,00;33,000.62;;x;Compra medidor de agua dpto 6E;Gastos variables
+20260916;19:34:20;Transferencia Qr Bm Qr Servicios de Plomeria - Billetera - Gerson Freddy Laime Luna - 72046374;Agencia;Agencia Central la Paz;- 200,00;32,800.62;;x;Limpieza desagues lavanderia y e instalación de medidor;Gastos variables
+20260918;17:44:42;Transferencia 12a Sep Exp   de: 20151550138328 Carvajal Perez Jhonny Gerardo;Banca Movil;Agencia Central la Paz;170,45;32,971.07;x;;expensa;
+20260921;20:07:56;Transferencia Qr 4a Agosto Exp - Banco Union - Rivera Bretel Julio Alejandro - 10000024284858;Transferencia Interbancaria;Agencia Central la Paz;201,00;33,172.07;x;;expensa;
+20260921;22:46:05;Transferencia Qr 4d Septiembre Expensa - Banco Union - Rodriguez Valda Haan Carla - 10000017851276;Transferencia Interbancaria;Agencia Central la Paz;117,12;33,289.19;x;;expensa;
+20260922;15:13:06;Nota de Credito;Agencia;Ag.central-la Paz Calle Mercado Esq.colon No,1308;190,85;33,480.04;x;;expensa;
+20260922;16:35:45;Transferencia Qr 6c Agosto Expensa - Banco Ganadero - Torrico Ballivian Ninoska  - 1310627693;Transferencia Interbancaria;Agencia Central la Paz;162,88;33,642.92;x;;expensa;
+20260922;16:36:50;Transferencia Qr 6c Septiembre Expensa - Banco Ganadero - Torrico Ballivian Ninoska  - 1310627693;Transferencia Interbancaria;Agencia Central la Paz;162,63;33,805.55;x;;expensa;
+20260923;08:50:06;Transferencia Qr Transferencia - Banco Fie S.a. - Ninoska  Torrico Ballivian - 40022278561;Transferencia Interbancaria;Agencia Central la Paz;137,06;33,942.61;x;;expensa;
+20260923;12:18:53;Transferencia Pago del Salon  - Banco Ganadero - Anti Calle Alvaro Gustavo - 1311341519;Transferencia Interbancaria;Agencia Central la Paz;200,00;34,142.61;x;;alquiler salon - evento niños;Otros ingresos
+20260923;17:31:05;Transferencia Qr 15c  Agosto  Expensa - Banco Sol - Mamani Choque Gerson Alberto - 3385024-000-001;Transferencia Interbancaria;Agencia Central la Paz;191,02;34,333.63;x;;expensa;
+20260923;19:07:40;Transferencia Qr 8ajul - Billetera - Eliana Madai Torres Cerruto - 71249035;Agencia;Agencia Central la Paz;248,15;34,581.78;x;;expensa;
+20260924;07:34:44;Transferencia Qr Expensas Agosto10e - Banco Union - Apaza Mamani Jimena - 10000025282025;Transferencia Interbancaria;Agencia Central la Paz;368,98;34,950.76;x;;expensa;
+20260924;15:08:53;Nota de Credito;Agencia;Ag.central-la Paz Calle Mercado Esq.colon No,1308;104,50;35,055.26;x;;expensa;
+20260924;15:36:29;Deposito en Agencia De:condori Huallp;Agencia;Ag.20 de Octubre-la Paz Av.20 de Octubre No.2315 Ed.mechita;154,50;35,209.76;x;;expensa;
+20260925;11:03:26;Transferencia Pago de Garantia - Banco Ganadero - Anti Calle Alvaro Gustavo - 1311341519;Transferencia Interbancaria;Agencia Central la Paz;400,00;35,609.76;x;;Garantia por alquiler salon 16F;Otros ingresos
+20260925;14:57:52;Transferencia Qr Bm Qr Compra de 2 Focos Let - Banco Ganadero - Ramirez Ticona Claudia Miriam - 74581237;Agencia;Agencia Central la Paz;- 40,00;35,569.76;;x;Compra focos led porteria;Gastos variables
+20260925;15:00:24;Pago de Servicios - Empresa: Delapaz - Servicio: Consumo Eléctrico 1015464|3;Banca Movil;Agencia Central la Paz;- 2392,20;33,177.56;;x;Pago luz mes agosto;Gastos fijos
+20260925;15:07:27;Pago de Servicios - Empresa: Delapaz - Servicio: Consumo Eléctrico 1015464|3;Banca Movil;Agencia Central la Paz;- 2248,50;30,929.06;;x;Pago luz mes septiembre;Gastos fijos
+20260925;15:14:13;Pago de Servicios - Empresa: Epsas - Servicio: Recorrido 06a0338004;Banca Movil;Agencia Central la Paz;- 155,50;30,773.56;;x;Pago agua mes septiembre - comercial;Gastos fijos
+20260925;15:19:32;Transferencia Qr Carvajal Yucra Oscar Gauss o Paz Leyto 20152363390394 - Banco Mercantil - Shirley Corali Valencia Sirpa - 1016788593;Transferencia Interbancaria;Agencia Central la Paz;170,94;30,944.50;x;;expensa;
+20260925;15:20:47;Transferencia Qr Carvajal Yucra Oscar Gauss o Paz Leyto 20152363390394 - Banco Mercantil - Shirley Corali Valencia Sirpa - 1016788593;Transferencia Interbancaria;Agencia Central la Paz;178,36;31,122.86;x;;expensa;
+20260925;15:22:18;Transferencia Qr Carvajal Yucra Oscar Gauss o Paz Leyto 20152363390394 - Banco Mercantil - Shirley Corali Valencia Sirpa - 1016788593;Transferencia Interbancaria;Agencia Central la Paz;174,05;31,296.91;x;;expensa;
+20260925;15:23:33;Transferencia Qr Carvajal Yucra Oscar Gauss o Paz Leyto 20152363390394 - Banco Mercantil - Shirley Corali Valencia Sirpa - 1016788593;Transferencia Interbancaria;Agencia Central la Paz;175,36;31,472.27;x;;expensa;
+20260925;15:24:32;Transferencia Qr Carvajal Yucra Oscar Gauss o Paz Leyto 20152363390394 - Banco Mercantil - Shirley Corali Valencia Sirpa - 1016788593;Transferencia Interbancaria;Agencia Central la Paz;173,02;31,645.29;x;;expensa;
+20260925;15:25:42;Transferencia Qr Carvajal Yucra Oscar Gauss o Paz Leyto 20152363390394 - Banco Mercantil - Shirley Corali Valencia Sirpa - 1016788593;Transferencia Interbancaria;Agencia Central la Paz;176,48;31,821.77;x;;expensa;
+20260925;16:52:06;Transferencia Qr 2c Septiembre Exp - Banco Nacional de Bolivia - Christian Mauricio d - 1502487449;Transferencia Interbancaria;Agencia Central la Paz;160,10;31,981.87;x;;expensa;
+20260925;18:03:10;Pago de Servicios - Empresa: Epsas - Servicio: Recorrido 06a0339007;Banca Movil;Agencia Central la Paz;- 2980,70;29,001.17;;x;Pago agua mes septiembre - domestico;Gastos fijos
+20260926;13:33:17;Transferencia Qr 8c Agosto 20   de: 20151680330335 Aliaga Lima Carlos Fausto;Banca Movil;Agencia Central la Paz;188,43;29,189.60;x;;expensa;
+20260926;15:50:16;Transferencia Qr 5cjulio Agosto  Expensas  - Banco Union - Quispe Ticona Luz Gabriela - 10000043361843;Transferencia Interbancaria;Agencia Central la Paz;350,56;29,540.16;x;;expensa;
+20260927;11:23:18;Transferencia Qr Expensas  - Banco Union - Perez Gonzales Roxana Ana - 10000018339643;Transferencia Interbancaria;Agencia Central la Paz;131,60;29,671.76;x;;expensa;
+20260928;10:34:02;Deposito en Agencia De:osuna Ortiz Mi;Agencia;Ag.miraflores-la Paz Av.saavedra No.1845;186,00;29,857.76;x;;expensa;
+20260928;12:12:57;Transferencia Qr 4e-junio-exp   de: 20152025932328 Paredes Sardon Elizabeth;Banca Movil;Agencia Central la Paz;344,07;30,201.83;x;;expensa;recuperacion mora
+20260928;12:15:41;Transferencia Qr 4e-julio-exp   de: 20152025932328 Paredes Sardon Elizabeth;Banca Movil;Agencia Central la Paz;342,16;30,543.99;x;;expensa;
+20260928;12:17:37;Transferencia Qr 4e-agosto-ex   de: 20152025932328 Paredes Sardon Elizabeth;Banca Movil;Agencia Central la Paz;341,65;30,885.64;x;;expensa;
+20260928;16:06:28;Transferencia Qr Bm Qr Transferencia Qr - Banco Pyme Ecofuturo S.a. - Ortiz Rocha Rafael Freddy - 2061610062;Agencia;Agencia Central la Paz;- 1350,00;29,535.64;;x;Compra insumos de limpieza;Gastos fijos
+20260928;19:05:01;Transferencia 9f Septiembre   de: 20151497225380 Medrano Escobar Reyna Virginia;Banca Movil;Agencia Central la Paz;149,29;29,684.93;x;;expensa;
+20260928;20:03:01;Transferencia Qr Bm Qr Devolucion Garantia Salon - Banco Ganadero - Anti Calle Alvaro Gustavo - 1311341519;Agencia;Agencia Central la Paz;- 400,00;29,284.93;;x;Garantia por alquiler salon 16F;Gastos variables
+20260929;21:20:11;Transferencia Qr 11d Ago Exp - Banco Bisa - Cabrera Jemio Wilmer                     - 5082674014;Transferencia Interbancaria;Agencia Central la Paz;131,96;29,416.89;x;;expensa;
+20260930;15:13:40;Transferencia Qr 9e Septiembre Expensa - Banco Union - Ali Poma Mirza Ayesa - 10000023421724;Transferencia Interbancaria;Agencia Central la Paz;266,44;29,683.33;x;;expensa;
+20260930;16:22:36;Transferencia Pago de Expensas Mes de Agosto 16f - Banco Ganadero - Anti Calle Alvaro Gustavo - 1311341519;Transferencia Interbancaria;Agencia Central la Paz;200,74;29,884.07;x;;expensa;
+20260930;18:07:59;Transferencia Qr 7afebreroexpensa - Banco Union - Fernandez Flores Eduardo - 10000011819650;Transferencia Interbancaria;Agencia Central la Paz;184,00;30,068.07;x;;expensa;
+20260930;18:10:06;Transferencia Qr 7amarzoexpensa - Banco Union - Fernandez Flores Eduardo - 10000011819650;Transferencia Interbancaria;Agencia Central la Paz;199,52;30,267.59;x;;expensa;
+20260930;18:11:32;Transferencia Qr 7aabrilexpensa - Banco Union - Fernandez Flores Eduardo - 10000011819650;Transferencia Interbancaria;Agencia Central la Paz;210,94;30,478.53;x;;expensa;
+20260930;18:12:37;Transferencia Qr 7amayoexpensa - Banco Union - Fernandez Flores Eduardo - 10000011819650;Transferencia Interbancaria;Agencia Central la Paz;213,87;30,692.40;x;;expensa;
+20260930;18:46:06;Transferencia Qr 7c  Septiembre 168 Bs - Banco Bisa - Flores Lopez Mario Marlon                - 9846164011;Transferencia Interbancaria;Agencia Central la Paz;168,00;30,860.40;x;;expensa;
+20260930;19:02:16;Transferencia Qr 7ajunioexpensa - Banco Union - Fernandez Flores Eduardo - 10000011819650;Transferencia Interbancaria;Agencia Central la Paz;212,90;31,073.30;x;;expensa;
+20260930;19:03:45;Transferencia Qr 7ajulioexpensa - Banco Union - Fernandez Flores Eduardo - 10000011819650;Transferencia Interbancaria;Agencia Central la Paz;212,02;31,285.32;x;;expensa;
+20260930;19:06:30;Transferencia Qr 7aagostoexpensa - Banco Union - Fernandez Flores Eduardo - 10000011819650;Transferencia Interbancaria;Agencia Central la Paz;198,19;31,483.51;x;;expensa;
+20260930;19:42:07;Transferencia Qr 16b Septiembre Exp - Banco Nacional de Bolivia - Luis Fernando Quispe - 1500676120;Transferencia Interbancaria;Agencia Central la Paz;238,57;31,722.08;x;;expensa;
+20260930;20:16:20;Transferencia Qr 4a Septiembre Ex - Banco Union - Rivera Bretel Julio Alejandro - 10000024284858;Transferencia Interbancaria;Agencia Central la Paz;195,00;31,917.08;x;;expensa;
