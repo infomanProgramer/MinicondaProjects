@@ -27,3 +27,7 @@ def lectura_planillas_utf8(url):
         encoding="UTF-8"
     )
     return df
+
+def limpiezaDeDatos(df):
+    df_otros_servicios_csv['Fecha_solicitud'] = df_otros_servicios_csv['Fecha_solicitud'].fillna('')
+    df_otros_servicios_csv['Fecha _reserva'] = df_otros_servicios_csv['Fecha_reserva'].fillna('')
